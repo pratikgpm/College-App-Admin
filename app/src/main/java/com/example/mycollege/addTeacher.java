@@ -54,6 +54,7 @@ public class addTeacher extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_teacher);
+        //demo 1
 
         addTeacherImage = findViewById(R.id.addTeacherImage);
         addTeacherName = findViewById(R.id.addTeacherName);
